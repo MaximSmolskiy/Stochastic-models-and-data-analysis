@@ -1,0 +1,3 @@
+[submodule "Data-fitting/octave-interval-examples"]
+	path = Data-fitting/octave-interval-examples
+	url = https://github.com/szhilin/octave-interval-examples
